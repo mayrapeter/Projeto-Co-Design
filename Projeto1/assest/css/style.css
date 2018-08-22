@@ -1,0 +1,13 @@
+.header {
+	border-style: solid;
+	border-width: 1px;
+	margin: 10px;
+	padding: 10px;
+	position: static;
+}
+
+.section {
+	border-style: solid;
+	border-width: 1px;
+	margin: 10px;
+}
