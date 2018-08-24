@@ -3,29 +3,37 @@
 	border-width: 1px;
 	margin: 10px;
 	padding: 10px;
-	display: flex;
 }
 
 .section {
 	border-style: solid;
 	border-width: 1px;
 	margin: 10px;
-	margin: 10px;
 	padding: 10px;
 	font-size: 1.5em;
+
+}
+
+.ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
 
 .imagem {
-
+	margin-bottom: 10px;
+	width: 70%;
+	text-align: center;
+	max-width: 50%;
+	min-width: 30%;
 }
 
 .itens {
-	flex-direction: center;
-
+	font-size: 1.5em;
 }
 
 .section, .header {
 	margin-bottom: 10px;
-	width: 80%;
+	width: 70%;
 
 }
