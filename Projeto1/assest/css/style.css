@@ -3,8 +3,25 @@
 	border-width: 1px;
 	margin: 10px;
 	padding: 10px;
+
 }
 
+.title {
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.5rem;
+	font-weight: bold;
+
+}
+
+.EngProj {
+	font-family:'Cabin Sketch', cursive;
+	font-size: 3rem;
+}
+
+.content {
+	font-family: Helvetica;
+	font-size: 1.3rem;
+}
 .section {
 	border-style: solid;
 	border-width: 1px;
@@ -28,9 +45,6 @@
 	min-width: 30%;
 }
 
-.itens {
-	font-size: 1.5em;
-}
 
 .section, .header {
 	margin-bottom: 10px;
