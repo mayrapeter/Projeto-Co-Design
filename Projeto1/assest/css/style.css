@@ -3,6 +3,9 @@
 	border-width: 1px;
 	margin: 10px;
 	padding: 10px;
+	background-color: #CD0029;
+	border-color: #CD0029;
+
 
 }
 
@@ -10,17 +13,28 @@
 	font-family: 'Cabin', sans-serif;
 	font-size: 1.5rem;
 	font-weight: bold;
+	color: #A60021;
 
 }
 
 .EngProj {
 	font-family:'Cabin Sketch', cursive;
-	font-size: 3rem;
+	font-size: 3.2rem;
+	color: #ffffff;
+}
+
+.header2 {
+	font-family:'Helvetica', cursive;
+	font-size: 1.3rem;
+	color: #ffffff;
 }
 
 .content {
 	font-family: Helvetica;
 	font-size: 1.3rem;
+
+
+
 }
 .section {
 	border-style: solid;
@@ -28,6 +42,7 @@
 	margin: 10px;
 	padding: 10px;
 	font-size: 1.5em;
+
 
 }
 
@@ -49,5 +64,6 @@
 .section, .header {
 	margin-bottom: 10px;
 	width: 70%;
+
 
 }
