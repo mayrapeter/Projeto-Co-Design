@@ -1,18 +1,17 @@
 {
 	"area": {
-		"nome": "Preencher o nome da area",
-		"projetos": " Nome do projeto"
+		"name": " Nome do projeto"
 
-			"semestre":"semestre",
+		"semesters":"semestre",
 
-			"materia":"nome da materia",
+		"materias":"nome da materia",
 
-			"imagem": "colocar a imagem",
+		"image": "colocar a imagem",
 
-			"descrição": "Preencher a descrição",
+		"description": "Preencher a descrição",
 
-			"objetivo de aprendizagem": [
-				"Objetivos"
-			]
-		}
+		"goal": [
+			"Objetivos"
+		]
+	}
 }
